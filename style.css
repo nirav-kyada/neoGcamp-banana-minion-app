@@ -58,8 +58,12 @@ footer {
 .div-footer {
 	display: block;
 	margin: auto;
-	text-align: center;
 }
 .div-footer p a {
 	color: yellow;
+}
+.div-footer p {
+	display: block;
+	font-size: 80%;
+	text-align: justify;
 }
