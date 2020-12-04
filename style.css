@@ -22,6 +22,7 @@ nav {
 	margin: auto;
 	width: 80%;
 	padding: 1rem;
+	font-size: 2rem;
 }
 button {
 	margin: auto;
@@ -36,13 +37,13 @@ button {
 }
 .sideimage {
 	width: 20%;
-	height: 20%;
+	height: 30%;
 	display: block;
 	overflow: hidden;
 	margin: auto;
 	max-width: 10%;
-	min-height: 10%;
+	min-height: 40%;
 }
-h3 {
-	text-align: justify;
+h2 {
+	text-align: center;
 }
