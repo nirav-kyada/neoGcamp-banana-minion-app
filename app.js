@@ -2,9 +2,9 @@ var btntranslate = document.querySelector('#btn-translate');
 var txtinput = document.querySelector('#txt-input');
 var outputDiv = document.querySelector('#txt-output');
 // console.log(txtinput);
-var serverURL2 =
+var serverURL1 =
 	'https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json';
-var serverURL1 = 'https://api.funtranslations.com/translate/minion.json';
+var serverURL2 = 'https://api.funtranslations.com/translate/minion.json';
 function geneateURL(text) {
 	return serverURL1 + '?text=' + text;
 }
