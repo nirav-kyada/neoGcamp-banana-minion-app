@@ -120,10 +120,11 @@ p {
 
 #description {
 	font-size: 1.1rem;
-	text-align: center;
+	text-align: left;
 	padding: 0rem 1rem;
 }
 .footer2 {
 	display: block;
 	margin: auto;
+	padding-bottom: 1rem;
 }
